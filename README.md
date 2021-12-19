@@ -7,9 +7,9 @@
 
 
 - 🔭 I’m currently working on Machine learning
-- 🌱 I’m currently learning Data science
+- 🌱 currently learning Data science
 - 👯 looking to collaborate on projects related Data science and AI
-- 😃 Interested in cryptography 
+- 😃 Interested in cryptography , Open-source projects
 - 📚 Education\
      |  Purusing Bachelors in Data Science & Programming from IIT madras\
      |  Purusing BTech in Artifical intelligence and Data science
