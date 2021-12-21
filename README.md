@@ -15,7 +15,7 @@
      |  Purusing Bachelors in Data Science & Programming from IIT madras\
      |  Purusing BTech in Artifical intelligence and Data science
 
-- 📫 You can reach me by mailing to [my email](21f1003798@student.onlinedegree.iitm.ac.in)\
+- 📫 You can reach me by mailing to [my email](mailto:21f1003798@student.onlinedegree.iitm.ac.in) :)\
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **I love to collaborate and learn new stuff**
 
 
