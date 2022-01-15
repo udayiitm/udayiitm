@@ -19,8 +19,9 @@
        
        
        
-# Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
-
+# Connect with me 
+<!--- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> --->
+ 
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:21f1003798@student.onlinedegree.iitm.ac.in)&nbsp;  &nbsp;
  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="linked in logo" width="34">](https://www.linkedin.com/in/uday-sai-t-63b29b22b/) &nbsp; 
   [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/udayiitm) &nbsp;
@@ -29,5 +30,5 @@
 **My inbox is always open for you**\
  **I love to collobrate and learn new stuff**
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=udayiitm.udayiitm)
+<!--- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=udayiitm.udayiitm) --->
 
