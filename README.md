@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Machine learning**
 - 🌱 currently learning **Data science**
 - 👯 looking to collaborate on projects related **Data science and AI**
-- 😃 Interested in **cryptography, Entrepreneurship, Open-source projects**
+- 😃 Interested in **Blockchain, Entrepreneurship, Open-source projects**
 - 📚 Education\
          &nbsp; I am a **sophomore** \
            **|**  Pursuing Bachelors in Data Science & Programming at **IIT Madras**\
