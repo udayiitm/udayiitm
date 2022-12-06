@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height = "30"> Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30"  height = "30" >
 # I'm Uday 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="250" />
+<img align="right" alt="GIF" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="380" height="250" />
 
 
 
@@ -22,7 +22,7 @@
 # Connect with me 
 <!--- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> --->
  
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:21f1003798@student.onlinedegree.iitm.ac.in)&nbsp;  &nbsp;
+[<img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail logo" height="37">](mailto:21f1003798@student.onlinedegree.iitm.ac.in)&nbsp;  &nbsp;
  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="linked in logo" width="34">](https://www.linkedin.com/in/uday-sai-t-63b29b22b/) &nbsp; 
   [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/udayiitm) &nbsp;
  [<img src = "https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width = "80">](https://www.kaggle.com/udaysai10)
