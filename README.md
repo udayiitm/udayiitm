@@ -13,9 +13,9 @@
 - 👯 looking to collaborate on projects related **Data science and AI**
 - 😃 Interested in **Blockchain, Entrepreneurship, Open-source projects**
 - 📚 Education\
-         &nbsp; I am a **sophomore** \
+         &nbsp; I am a **Pre-final year student* \
            **|**  Pursuing Bachelors in Data Science & Programming at **IIT Madras**\
-          **|**  Pursuing BTech in Artifical intelligence and Data science
+          **|**  Pursuing BTech in Artifical intelligence and Data science at **IIITDM Kurnool**
        
        
        
