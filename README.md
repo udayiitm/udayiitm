@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height = "30"> Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30"  height = "30" >
+## <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30" height = "30" align = "center"> Hello world! <img src="https://bestanimations.com/media/earth/1404153328earth-spinning-rotating-animation-15.gif" width="40"  height = "40" align = "center">
 # I'm Uday 
 <img align="right" alt="GIF" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="380" height="250" />
 
