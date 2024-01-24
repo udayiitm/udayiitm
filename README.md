@@ -8,12 +8,12 @@
 
 
 
-- 🔭 I’m currently working on **Machine learning**
-- 🌱 currently learning **Data science**
+- 🔭 I’m currently working on **Data Science**
+- 🌱 currently learning **MLOPs**
 - 👯 looking to collaborate on projects related **Data science and AI**
-- 😃 Interested in **Blockchain, Entrepreneurship, Open-source projects**
+- 😃 Interested in **Blockchain, Entrepreneurship, Fintech,  Open-source projects**
 - 📚 Education\
-         &nbsp; I am a **Pre-final year student** \
+         &nbsp; I am a **Senior year student** \
            **|**  Pursuing Bachelors in Data Science & Programming at **IIT Madras**\
           **|**  Pursuing BTech in Artifical intelligence and Data science at **IIITDM Kurnool**
        
