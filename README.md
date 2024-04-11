@@ -9,9 +9,9 @@
 
 
 - I’m currently working on **Data Science**
-- Currently learning **MLOPs**
+- Currently learning **LLM's**
 - Looking to collaborate on projects related **Data science and AI**
-- Interested in **Blockchain, Entrepreneurship, Fintech,  Open-source projects**
+- Interested in **GenAi, Entrepreneurship, Fintech,  Open-source projects**
 - Education\
          &nbsp; I am a **Senior year student** \
            **|**  Pursuing Bachelors in Data Science & Programming at **IIT Madras**\
