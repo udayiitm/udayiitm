@@ -8,10 +8,10 @@
 
 
 
-- I’m currently working on **Data Science**
-- Currently learning **LLM's**
+- I’m currently working on **GenAI & Data Science**
+- Currently learning and researching **Agentic AI & LLM capability**
 - Looking to collaborate on projects related **Data science and AI**
-- Interested in **GenAi, Entrepreneurship, Fintech,  Open-source projects**
+- Interested in **Cognitive Science, Entrepreneurship, Fintech,  Open-source projects**
 - Education\
          &nbsp; I am a **Senior year student** \
            **|**  Pursuing Bachelors in Data Science & Programming at **IIT Madras**\
