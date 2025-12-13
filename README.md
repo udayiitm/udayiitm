@@ -12,11 +12,7 @@
 - Currently learning and researching **Agentic AI & LLM capability**
 - Looking to collaborate on projects related **Data science and AI**
 - Interested in **Cognitive Science, Entrepreneurship, Fintech,  Open-source projects**
-- Education\
-         &nbsp; I am a **Senior year student** \
-           **|**  Pursuing Bachelors in Data Science & Programming at **IIT Madras**\
-          **|**  Pursuing BTech in Artifical intelligence and Data science at **IIITDM Kurnool**
-       
+
        
        
 # Connect with me 
