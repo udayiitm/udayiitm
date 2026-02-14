@@ -9,7 +9,7 @@
 
 
 - I’m currently working on **GenAI & Data Science**
-- Currently learning and researching **Agentic AI & LLM capability**
+- Currently learning and researching **Agentic AI & Reinforcment learning**
 - Looking to collaborate on projects related **Data science and AI**
 - Interested in **Cognitive Science, Entrepreneurship, Fintech,  Open-source projects**
 
